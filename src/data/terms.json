@@ -1,0 +1,283 @@
+{
+  "terms": {
+    "vo2max": {
+      "name": "VO₂max",
+      "definition": "Consumo Máximo de Oxígeno durante ejercicio intenso",
+      "detail": "Medida gold standard de capacidad cardiorrespiratoria. Indica cuánto oxígeno tu cuerpo puede procesar por minuto al máximo esfuerzo. Como la 'cilindrada' de un motor: cuanto más alto, mejor capacidad aeróbica.",
+      "emoji": "🫁",
+      "stats": [
+        "Se mide en L/min o ml/kg/min",
+        "Hombre joven promedio: ~3.0-3.5 L/min",
+        "Mujer joven promedio: ~2.0-2.5 L/min",
+        "Atleta élite: 5.0-6.0+ L/min",
+        "Declina ~10% por década post-30",
+        "Recuperable con entrenamiento a cualquier edad"
+      ],
+      "sources": [
+        {
+          "text": "Dallas Bed Rest Study - Circulation (2019)",
+          "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.119.041046"
+        },
+        {
+          "text": "Harvard Health - Exercise and Aging",
+          "url": "https://www.health.harvard.edu/staying-healthy/exercise-and-aging-can-you-walk-away-from-father-time"
+        }
+      ]
+    },
+    "sarcopenia": {
+      "name": "Sarcopenia",
+      "definition": "Pérdida progresiva de masa muscular, fuerza y función con la edad",
+      "detail": "Condición que afecta la calidad de vida y aumenta el riesgo de caídas, fracturas y pérdida de independencia. Comienza sutilmente en los 30s y se acelera post-50. La buena noticia: ES REVERSIBLE con ejercicio.",
+      "emoji": "💪",
+      "stats": [
+        "Afecta 10-20% de adultos >60 años",
+        "Más de 50% de adultos >80 años",
+        "Comienza alrededor de los 30 años",
+        "3-8% pérdida por década (30-60 años)",
+        "PERO: 1-2% ganancia masa/mes con entrenamiento",
+        "Mejora de fuerza: 30-40% en pocos meses",
+        "El entrenamiento reduce riesgo de discapacidad funcional",
+        "Nunca es tarde: beneficios incluso a 80+ años"
+      ],
+      "sources": [
+        {
+          "text": "European Consensus on Sarcopenia (2019)",
+          "url": "https://doi.org/10.1093/ageing/afy169"
+        },
+        {
+          "text": "Boost Physio - Sarcopenia Reversal Data",
+          "url": "https://boostphysio.com/sarcopenia-exercises-to-prevent-and-reverse/"
+        },
+        {
+          "text": "Machine-based RT for Sarcopenia (2022)",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0531556522000754"
+        }
+      ]
+    },
+    "osteoporosis": {
+      "name": "Osteoporosis",
+      "definition": "Enfermedad que debilita los huesos, haciéndolos frágiles y propensos a fracturas",
+      "detail": "Los huesos se vuelven porosos y pierden densidad mineral, especialmente post-menopausia en mujeres. El ejercicio de resistencia y carga puede revertir parcialmente esta pérdida.",
+      "emoji": "🦴",
+      "stats": [
+        "1 de 2 mujeres >50 tendrá fractura relacionada",
+        "1 de 4 hombres también afectados",
+        "Pérdida acelerada: -20% densidad en 5-7 años post-menopausia",
+        "Fracturas más comunes: cadera, columna, muñeca",
+        "Ejercicio de carga: +10% densidad en 6-9 semanas",
+        "Combinación fuerza + balance reduce fracturas 50%"
+      ],
+      "sources": [
+        {
+          "text": "NIH Osteoporosis Overview",
+          "url": "https://www.bones.nih.gov/health-info/bone/osteoporosis/overview"
+        },
+        {
+          "text": "NIA Infographic - Sarcopenia & Osteoporosis",
+          "url": "https://www.nia.nih.gov/health/infographics"
+        }
+      ]
+    },
+   "telomeros": {
+    "name": "Telómeros",
+    "definition": "Son como los 'plásticos' de las puntas de los cordones - protegen tus cromosomas",
+    "detail": "Cada vez que tus células se dividen, los telómeros se acortan un poquito. Después de ~50 divisiones, se vuelven tan cortos que la célula dice 'ya no más' y deja de funcionar bien (se pone vieja).",
+    "stats": [
+      "Se acortan naturalmente 50-100 'pedacitos' por año",
+      "Límite: después de ~50 divisiones, la célula envejece",
+      "Células viejas acumuladas = inflamación crónica en el cuerpo",
+      "Telómeros muy cortos = senescencia celular (célula deja de dividirse)",
+      "Acortamiento acelerado relacionado con enfermedades del envejecimiento"
+    ],
+    "sources": [
+      {
+        "text": "Telomere Dysfunction in Aging - Nature Cell Biology",
+        "url": "https://www.nature.com/articles/s41556-022-00842-x"
+      },
+      {
+        "text": "Cellular Senescence Breakthrough - Molecular Cell (2025)",
+        "url": "https://phys.org/news/2025-12-scientists-cellular-aging.html"
+      },
+      {
+        "text": "Telomeres & Cellular Senescence - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11287966/"
+      }
+    ]
+  },
+    "telomerasa": {
+      "name": "Telomerasa",
+      "definition": "Enzima que alarga los telómeros, contrarrestando su acortamiento natural",
+      "detail": "Es una transcriptasa reversa que añade secuencias de ADN a los extremos de los cromosomas. El ejercicio aumenta su actividad, especialmente con entrenamiento aeróbico de alta intensidad.",
+      "emoji": "⚗️",
+      "stats": [
+        "Ejercicio aeróbico/HIIT: aumenta actividad 2-3× veces",
+        "Ejercicio de resistencia: NO aumenta telomerasa significativamente",
+        "Mantiene capacidad replicativa celular",
+        "Previene senescencia celular prematura",
+        "Funciones no-canónicas: reparación DNA, función mitocondrial"
+      ],
+      "sources": [
+        {
+          "text": "Werner et al. (2019) - European Heart Journal",
+          "url": "https://doi.org/10.1093/eurheartj/ehy585"
+        },
+        {
+          "text": "Exercise as Therapy for Telomeres - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10526708/"
+        }
+      ]
+    },
+    "hiit": {
+      "name": "HIIT",
+      "definition": "High-Intensity Interval Training - Entrenamiento de intervalos de alta intensidad",
+      "detail": "Alternancia entre períodos cortos de ejercicio muy intenso (80-95% esfuerzo máximo) y períodos de recuperación o ejercicio ligero. Es el método más eficiente para mejoras cardiovasculares y reversión celular.",
+      "emoji": "⚡",
+      "stats": [
+        "Típico: 20-30 seg sprint + 10-30 seg descanso",
+        "Sesiones: 10-30 minutos totales",
+        "Beneficios: VO₂max, función mitocondrial, telómeros",
+        "Más eficiente que cardio continuo para reversión celular",
+        "En adultos mayores: mejora más significativa que resistencia sola",
+        "Reduce deterioro mitocondrial asociado al envejecimiento"
+      ],
+      "sources": [
+        {
+          "text": "Robinson et al. - Cell Metabolism HIIT Study",
+          "url": "https://doi.org/10.1016/j.cmet.2017.02.012"
+        },
+        {
+          "text": "MDLinx - Anti-Aging Workouts",
+          "url": "https://www.mdlinx.com/article/the-most-effective-anti-aging-workout-backed-by-science/5jPVnxfJp2PyZyN7KFlpEF"
+        }
+      ]
+    },
+    "resistencia": {
+      "name": "Entrenamiento de Resistencia",
+      "definition": "Ejercicio que utiliza resistencia (pesas, bandas, peso corporal) para construir músculo",
+      "detail": "Es la forma más directa de combatir sarcopenia y aumentar masa muscular a cualquier edad. Incluye pesas libres, máquinas, bandas elásticas, y ejercicios con peso corporal.",
+      "emoji": "🏋️",
+      "stats": [
+        "Aumenta fuerza 30-40% en adultos mayores",
+        "Ganancia: 1-2% masa muscular por mes con consistencia",
+        "Frecuencia ideal: 2-3× por semana",
+        "8-12 repeticiones por serie es óptimo para hipertrofia",
+        "Nunca es tarde para empezar (beneficios incluso a 80+ años)",
+        "Estimula también densidad ósea (+10% en 6-9 semanas)",
+        "Mejora metabolismo y sensibilidad a insulina"
+      ],
+      "sources": [
+        {
+          "text": "Harvard Health - Combating Sarcopenia",
+          "url": "https://www.health.harvard.edu/staying-healthy/preserve-your-muscle-mass"
+        },
+        {
+          "text": "UT Southwestern - Strength Training Over 60",
+          "url": "https://utswmed.org/medblog/age-related-sarcopenia/"
+        },
+        {
+          "text": "Progressive ST Reverses Sarcopenia - PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37688919/"
+        }
+      ]
+    },
+    "intolerancia_ortostatica": {
+      "name": "Intolerancia Ortostática",
+      "definition": "Dificultad del cuerpo para ajustar presión arterial al ponerse de pie",
+      "detail": "Causa mareos, debilidad, visión borrosa o desmayo al cambiar de posición. Común después de reposo prolongado en cama. El ejercicio ayuda pero no previene completamente este efecto.",
+      "emoji": "🩺",
+      "stats": [
+        "Afecta ambos grupos en estudio canadiense (con y sin ejercicio)",
+        "Síntoma clásico de deconditioning cardiovascular",
+        "Se recupera gradualmente con movilización"
+      ],
+      "sources": [
+        {
+          "text": "Canadian Aging and Inactivity Study (CAIS) - Frontiers",
+          "url": "https://www.frontiersin.org/articles/10.3389/fphys.2022.943630/full"
+        },
+        {
+          "text": "CAIS Study - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10634275/"
+        }
+      ]
+    },
+    "cais": {
+      "name": "Canadian Aging and Inactivity Study (CAIS)",
+      "definition": "Estudio de 2023 sobre los efectos del reposo en cama en adultos mayores",
+      "detail": "Investigó si 60-75 minutos de ejercicio intenso diario podía contrarrestar los efectos negativos de 14 días de reposo en cama en personas de 55-65 años. Resultados mostraron que incluso con ejercicio intenso, el reposo prolongado causó deterioro en múltiples sistemas.",
+      "emoji": "🇨🇦",
+      "stats": [
+        "23 participantes (55-65 años)",
+        "14 días de bed rest con 6° de inclinación",
+        "Un grupo hizo 60-75min ejercicio intenso/día",
+        "Fuerza muscular bajó en AMBOS grupos",
+        "Inflamación aumentó independiente del ejercicio",
+        "Biomarcadores neurales mostraron deterioro"
+      ],
+      "sources": [
+        {
+          "text": "CAIS Study - Frontiers in Physiology (2023)",
+          "url": "https://www.frontiersin.org/articles/10.3389/fphys.2022.943630/full"
+        }
+      ]
+    },
+    "inflamacion_cronica": {
+      "name": "Inflamación Crónica",
+      "definition": "Un estado constante de inflamación de bajo nivel en todo el cuerpo que acelera el envejecimiento",
+      "detail": "Normalmente, la inflamación es buena: aparece cuando te lesionás para ayudar a curar. Pero en adultos mayores sedentarios, se queda 'prendida' todo el tiempo a bajo nivel, como un fuego lento que va dañando tus tejidos. TNF-α e IL-6 son dos señales químicas que miden esta inflamación.",
+      "emoji": "🔥",
+      "stats": [
+        "TNF-α e IL-6: señales que indican inflamación activa",
+        "En jóvenes: aparecen solo ante lesiones, después bajan",
+        "En adultos mayores sedentarios: están altos constantemente",
+        "IL-6 es EL marcador más fuertemente asociado con enfermedad, discapacidad y mortalidad",
+        "Sarcopenia = niveles aumentados de TNF-α e IL-6"
+      ],
+      "sources": [
+        {
+          "text": "Meta-Analysis: Exercise Effects on Inflammation in Elderly",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9407701/"
+        },
+        {
+          "text": "Sarcopenia and Inflammatory Factors IL-6 and TNF-α",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5508730/"
+        },
+        {
+          "text": "Sedentary Behavior and Inflammation (Multi-Ethnic Study)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3244676/"
+        }
+      ]
+    },
+    "zonas_azules": {
+      "name": "Zonas Azules",
+      "definition": "5 regiones del mundo donde la gente vive más de 100 años con calidad de vida excepcional",
+      "detail": "No van al gym, pero se mueven TODO EL DÍA. Caminan al trabajo, al mercado, cuidan animales, trabajan la tierra. El movimiento está integrado en su vida diaria, no es una 'sesión de ejercicio'.",
+      "emoji": "🌍",
+      "stats": [
+        "Okinawa (Japón): Caminan por la isla, 'moai' (grupos sociales de apoyo)",
+        "Sardeña (Italia): Pastorean ovejas = 8 km diarios subiendo montañas",
+        "Ikaria (Grecia): Dieta mediterránea, caminatas, vida social activa",
+        "Loma Linda (California): Adventistas, caminatas regulares, comunidad fuerte",
+        "Nicoya (Costa Rica): Trabajo físico en la tierra, vida activa hasta edad avanzada",
+        "CLAVE: 8,000-12,000 pasos/día (pero no por ejercicio, por vida diaria)",
+        "Alimentación: 95% plantas, beans/legumbres como base",
+        "Social: vida en comunidad, múltiples generaciones conviven",
+        "Genética = 25%, estilo de vida = 75% de la longevidad"
+      ],
+      "sources": [
+        {
+          "text": "Blue Zones Research - Dan Buettner",
+          "url": "https://www.bluezones.com/exploration/ikaria-greece/"
+        },
+        {
+          "text": "National Geographic - Blue Zones",
+          "url": "https://www.nationalgeographic.com/magazine/article/blue-zones"
+        },
+        {
+          "text": "Harvard Health - Lessons from Blue Zones",
+          "url": "https://www.health.harvard.edu/blog/what-are-blue-zones-and-what-can-we-learn-from-them-2021012821858"
+        }
+      ]
+    }
+  }
+}
